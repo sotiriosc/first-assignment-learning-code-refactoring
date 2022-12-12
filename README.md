@@ -28,4 +28,4 @@ THEN I find a concise, descriptive title
 I utilized git hub to create, clone a repository. I then used VS code to analyze and refactor the code. Since this is my first project, I used my lack of knowledge to learn and play with HTML and CSS. Every change I made, I would reference on the site to learn what every tag and function is doing on the webpage. Reference the notes to discover what changes were made durring refactoring. Don't be afrain to let me know what I am missing. I love to learn.
 
 ### Website Link
-Live UR: 
+Live URl:https://sotiriosc.github.io/first-assignment/ 
