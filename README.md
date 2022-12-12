@@ -23,4 +23,4 @@ THEN I find a concise, descriptive title
 
 ### How I refactored and fulfilled my assignment 
 
-img(01-html-css-git-homework-demo.png)
+[img](/01-html-css-git-homework-demo.png)
