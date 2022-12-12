@@ -22,3 +22,5 @@ THEN I find a concise, descriptive title
 
 
 ### How I refactored and fulfilled my assignment 
+
+img(
