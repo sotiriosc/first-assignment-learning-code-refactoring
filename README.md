@@ -41,4 +41,5 @@ I utilized git hub to create and clone the assignment repository. I then used VS
 
 ### Website Link
 Live URL: https://sotiriosc.github.io/first-assignment/ 
+
 GitHub URL: https://github.com/sotiriosc/first-assignment.git
