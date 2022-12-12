@@ -1,4 +1,3 @@
-#0d1117
 # **Code Refactor Starter Code Assignment**
 
 ## User Story
