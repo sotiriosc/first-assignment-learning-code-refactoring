@@ -37,7 +37,7 @@ THEN I find a concise, descriptive title
 
 [Image of completed website](/assets/images/01-html-css-git-homework-demo.png)
 
-I utilized git hub to create and clone the assignment repository. I then used VS code to analyze and refactor the code. This is my first project, I used my lack of knowledge to learn and play with HTML and CSS. Every change I made, I would reference the site to learn what a tag and or function is doing. Reference the notes in the code to discover what changes were made durring refactoring. Don't be afraid to let me know what I am missing. I love to learn.
+I utilized git hub to create and clone the assignment repository. I then used VS code to analyze and refactor the code. This is my first project, I used my lack of knowledge to learn and play with HTML and CSS. Every change I made, I would reference the site to learn what a tag and or function is doing. I also grouped similar id functions into classes to reduce redundencies in the code. Reference the notes in the code to discover what changes were made durring refactoring. Don't be afraid to let me know what I am missing. I love to learn.
 
 ### Website Link
 Live URL:https://sotiriosc.github.io/first-assignment/ 
