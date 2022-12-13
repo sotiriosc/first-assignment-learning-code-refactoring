@@ -20,7 +20,7 @@ body {
     font-size: 48px;
 }
 /* Improved contrast on SEO */
-#header h1 #seo {
+.header h1 #seo {
     color: #6bbe18;
 }
 /* Corrected tags to reflect HTML */
